@@ -1,0 +1,52 @@
+Drone 1
+Width: 384 px
+Height: 240 px
+5 Animations
+Upto 8 frames
+Walk animation: frameX 3
+Upto 4 frames frameY 3
+
+Drone 2
+Width: 1536px
+Height: 384px
+4 Animations
+Upto 16 animation frames
+Walk animation: frameX 3
+Upto 4 frames frameY 3
+ 
+Drone 3
+Width: 768px
+Height: 336px
+7 Animations
+Upto 16 Animation frames
+Walk animation: frameX 6
+Upto 4 frames frameY 3
+
+Crosshair Pack
+Width: 112px
+Height: 64px
+7x4 Pack (Use Row 1, Column 2 or Row 3, Column 4)
+
+Small Spaceship
+Width: 1920px
+Height: 1920px
+10 Animations
+Upto 10 frames
+Walk animation: frameX 2
+
+
+Big Spaceship
+Width: 4032px
+Height: 1920px
+10 Animations
+Upto 21 frames
+Walk Animation: frameX 3
+Upto 5 frames (frameY 4)
+
+formula:
+y = Height/Animation
+x = Width/Frames
+
+Background size:
+Width: 576
+Height: 324

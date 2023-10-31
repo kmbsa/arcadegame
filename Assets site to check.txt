@@ -1,0 +1,8 @@
+links:
+- https://bevouliin.com/category/free_game_asset/
+- https://craftpix.net/freebies/free-robot-pixel-art-sprite-sheets/
+
+learn a bit about game developing of a scroller game.
+- https://www.youtube.com/watch?v=GFO_txvwK_c (on part 7 now; check parts 1,2,3,4 and 7)
+- https://codepen.io/franksLaboratory/pen/ZEKodqd?editors=0010
+- https://www.youtube.com/watch?v=gCa0z4B-CRo
